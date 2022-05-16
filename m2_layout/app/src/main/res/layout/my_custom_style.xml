@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@color/white">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <FrameLayout
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:background="@color/black"/>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textUp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@tools:sample/lorem/random"
+                android:lines="1"
+                android:fontFamily="serif"
+                android:ellipsize="end"
+                android:textSize="15sp"
+                android:textColor="@color/black"
+                android:layout_margin="16dp"/>
+
+            <TextView
+                android:id="@+id/textDown"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@tools:sample/lorem/random"
+                android:fontFamily="serif"
+                android:textColor="@color/black"
+                android:textSize="15sp"
+                android:layout_margin="16dp"
+                android:lines="1"
+                android:ellipsize="end"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <FrameLayout
+        android:layout_width="411.5dp"
+        android:layout_height="300dp"
+        android:layout_marginTop="16dp"
+        android:background="#787878" />
+
+</LinearLayout>
