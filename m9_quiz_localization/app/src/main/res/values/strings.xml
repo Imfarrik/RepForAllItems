@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IDK Quizzz</string>
+    <string name="start">Start</string>
+    <string name="back">Back</string>
+    <string name="send">Send</string>
+    <string name="answer_for_all_q">Answer all questions</string>
+    <string name="again">Start over</string>
+    <string name="date_picker">Select date of birth</string>
+
+</resources>
