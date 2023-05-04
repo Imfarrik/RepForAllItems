@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "357138609013",
+    "project_id": "skillbox-81242",
+    "storage_bucket": "skillbox-81242.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357138609013:android:f9e1b930ff0ec96afd993c",
+        "android_client_info": {
+          "package_name": "com.example.permissions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357138609013-bss3f45p2fsb74ru4uh060f717a7d39q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuksIFbFY3qaJTU1ZnFF5UfWWvZgitFs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357138609013-bss3f45p2fsb74ru4uh060f717a7d39q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
